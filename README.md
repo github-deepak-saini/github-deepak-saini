@@ -1,5 +1,5 @@
 ### Hello, I am Deepak (@github-deepak-saini). 
-I am interested in domains such as Actuarial Science, Data Science, Business Analytics, Machine Learning, Artificial Intelligence. 
+I am interested in domains such as Actuarial Science, Data Science, Business Analytics, Machine Learning and Artificial Intelligence. 
 <br>
 
 I am continuously learning and expanding my horizon in these domains. 
